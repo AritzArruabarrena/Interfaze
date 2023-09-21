@@ -8,8 +8,8 @@ namespace Ariketa1
 {
     internal class Esaldia
     {
-        public string Esaldiak { get; set; }
-        public string EsaldiakLotuta { get; set;}
+        public String Esaldiak { get; set; }
+        public String EsaldiakLotuta { get; set;}
 
         public void Batu()
         {

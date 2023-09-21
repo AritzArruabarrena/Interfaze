@@ -62,6 +62,7 @@
             button2.TabIndex = 2;
             button2.Text = "Esaldi 2";
             button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
             // button3
             // 
@@ -71,6 +72,7 @@
             button3.TabIndex = 3;
             button3.Text = "Esaldi 3";
             button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
             // 
             // button4
             // 
@@ -80,6 +82,7 @@
             button4.TabIndex = 4;
             button4.Text = "Esaldi 4";
             button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
             // 
             // button5
             // 
@@ -87,8 +90,9 @@
             button5.Name = "button5";
             button5.Size = new Size(75, 23);
             button5.TabIndex = 5;
-            button5.Text = "Esaldi 4";
+            button5.Text = "Esaldi 5";
             button5.UseVisualStyleBackColor = true;
+            button5.Click += button5_Click;
             // 
             // button6
             // 
@@ -98,6 +102,7 @@
             button6.TabIndex = 6;
             button6.Text = "Lotu";
             button6.UseVisualStyleBackColor = true;
+            button6.Click += button6_Click;
             // 
             // Form1
             // 
