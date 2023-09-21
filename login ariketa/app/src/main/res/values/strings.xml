@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="password_">
+PASSWORD:
+</string>
+    <string name="sign_in">
+SIGN IN
+</string>
+    <string name="username_">
+USERNAME:
+</string>
+
+    <string name="log_in">
+LOG IN
+</string>
+</resources>

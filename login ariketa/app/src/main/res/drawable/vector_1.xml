@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <vector
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:aapt="http://schemas.android.com/aapt"
+        android:width="361dp"
+        android:height="189.1dp"
+        android:viewportWidth="361"
+        android:viewportHeight="189.1"
+        >
+        <group>
+            <clip-path
+                android:pathData="M0.5 0.5H360.5V188.605H0.5V0.5Z"
+                />
+            <group
+                android:translateX="1"
+                android:translateY="0"
+                android:pivotX="180.5"
+                android:pivotY="94.552"
+                android:scaleX="2"
+                android:scaleY="2"
+                android:rotation="90"
+                >
+                <path
+                    android:pathData="M0.5 0.5V188.605H360.5V0.5"
+                    >
+                    <aapt:attr name="android:fillColor">
+                        <gradient
+                            android:type="linear"
+                            android:startX="90.5"
+                            android:startY="94.552"
+                            android:endX="270.5"
+                            android:endY="94.552"
+                            >
+                            <item
+                                android:color="#46BEB7"
+                                android:offset="0"
+                                />
+                            <item
+                                android:color="#610138FC"
+                                android:offset="0.667"
+                                />
+                            <item
+                                android:color="#0036A5E3"
+                                android:offset="1"
+                                />
+                        </gradient>
+                    </aapt:attr>
+                </path>
+            </group>
+        </group>
+        <path
+            android:pathData="M0.5 0.5H360.5V188.605H0.5V0.5Z"
+            android:strokeWidth="1"
+            android:strokeColor="#FFFFFF"
+            />
+    </vector>
+</selector>
