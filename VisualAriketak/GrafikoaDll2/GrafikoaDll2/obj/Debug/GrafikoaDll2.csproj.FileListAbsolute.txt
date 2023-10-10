@@ -1,0 +1,8 @@
+C:\Users\arruabarrena.aritz\Desktop\Interfaze\VisualAriketak\GrafikoaDll2\GrafikoaDll2\bin\Debug\GrafikoaDll2.dll
+C:\Users\arruabarrena.aritz\Desktop\Interfaze\VisualAriketak\GrafikoaDll2\GrafikoaDll2\bin\Debug\GrafikoaDll2.pdb
+C:\Users\arruabarrena.aritz\Desktop\Interfaze\VisualAriketak\GrafikoaDll2\GrafikoaDll2\obj\Debug\GrafikoaDll2.csproj.AssemblyReference.cache
+C:\Users\arruabarrena.aritz\Desktop\Interfaze\VisualAriketak\GrafikoaDll2\GrafikoaDll2\obj\Debug\GrafikoaDll2.UserControl1.resources
+C:\Users\arruabarrena.aritz\Desktop\Interfaze\VisualAriketak\GrafikoaDll2\GrafikoaDll2\obj\Debug\GrafikoaDll2.csproj.GenerateResource.cache
+C:\Users\arruabarrena.aritz\Desktop\Interfaze\VisualAriketak\GrafikoaDll2\GrafikoaDll2\obj\Debug\GrafikoaDll2.csproj.CoreCompileInputs.cache
+C:\Users\arruabarrena.aritz\Desktop\Interfaze\VisualAriketak\GrafikoaDll2\GrafikoaDll2\obj\Debug\GrafikoaDll2.dll
+C:\Users\arruabarrena.aritz\Desktop\Interfaze\VisualAriketak\GrafikoaDll2\GrafikoaDll2\obj\Debug\GrafikoaDll2.pdb
