@@ -18,7 +18,11 @@ namespace Ariketa2
 
         public float eragiketaluzea()
         {
+<<<<<<< HEAD
             return eragiketa += (a + 2 * b + 3 * c + 4 * .d) / 4;
+=======
+            return eragiketa += (a + 2 * b + 3 * c + 4 * d) / 4;
+>>>>>>> d56ed7713913ad68a7a29dc8f9ec3346c357adf1
                 
         }
     }

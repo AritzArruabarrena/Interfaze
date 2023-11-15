@@ -1,0 +1,16 @@
+C:\Users\arruabarrena.aritz\Desktop\Interfaze\VisualAriketak\Ariketa2List\Ariketa2List\obj\Debug\net6.0-windows\Ariketa2List.Form1.resources
+C:\Users\arruabarrena.aritz\Desktop\Interfaze\VisualAriketak\Ariketa2List\Ariketa2List\obj\Debug\net6.0-windows\Ariketa2List.csproj.GenerateResource.cache
+C:\Users\arruabarrena.aritz\Desktop\Interfaze\VisualAriketak\Ariketa2List\Ariketa2List\obj\Debug\net6.0-windows\Ariketa2List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arruabarrena.aritz\Desktop\Interfaze\VisualAriketak\Ariketa2List\Ariketa2List\obj\Debug\net6.0-windows\Ariketa2List.AssemblyInfoInputs.cache
+C:\Users\arruabarrena.aritz\Desktop\Interfaze\VisualAriketak\Ariketa2List\Ariketa2List\obj\Debug\net6.0-windows\Ariketa2List.AssemblyInfo.cs
+C:\Users\arruabarrena.aritz\Desktop\Interfaze\VisualAriketak\Ariketa2List\Ariketa2List\obj\Debug\net6.0-windows\Ariketa2List.csproj.CoreCompileInputs.cache
+C:\Users\arruabarrena.aritz\Desktop\Interfaze\VisualAriketak\Ariketa2List\Ariketa2List\bin\Debug\net6.0-windows\Ariketa2List.exe
+C:\Users\arruabarrena.aritz\Desktop\Interfaze\VisualAriketak\Ariketa2List\Ariketa2List\bin\Debug\net6.0-windows\Ariketa2List.deps.json
+C:\Users\arruabarrena.aritz\Desktop\Interfaze\VisualAriketak\Ariketa2List\Ariketa2List\bin\Debug\net6.0-windows\Ariketa2List.runtimeconfig.json
+C:\Users\arruabarrena.aritz\Desktop\Interfaze\VisualAriketak\Ariketa2List\Ariketa2List\bin\Debug\net6.0-windows\Ariketa2List.dll
+C:\Users\arruabarrena.aritz\Desktop\Interfaze\VisualAriketak\Ariketa2List\Ariketa2List\bin\Debug\net6.0-windows\Ariketa2List.pdb
+C:\Users\arruabarrena.aritz\Desktop\Interfaze\VisualAriketak\Ariketa2List\Ariketa2List\obj\Debug\net6.0-windows\Ariketa2List.dll
+C:\Users\arruabarrena.aritz\Desktop\Interfaze\VisualAriketak\Ariketa2List\Ariketa2List\obj\Debug\net6.0-windows\refint\Ariketa2List.dll
+C:\Users\arruabarrena.aritz\Desktop\Interfaze\VisualAriketak\Ariketa2List\Ariketa2List\obj\Debug\net6.0-windows\Ariketa2List.pdb
+C:\Users\arruabarrena.aritz\Desktop\Interfaze\VisualAriketak\Ariketa2List\Ariketa2List\obj\Debug\net6.0-windows\Ariketa2List.genruntimeconfig.cache
+C:\Users\arruabarrena.aritz\Desktop\Interfaze\VisualAriketak\Ariketa2List\Ariketa2List\obj\Debug\net6.0-windows\ref\Ariketa2List.dll
