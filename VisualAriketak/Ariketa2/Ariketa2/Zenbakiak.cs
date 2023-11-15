@@ -18,7 +18,7 @@ namespace Ariketa2
 
         public float eragiketaluzea()
         {
-            return eragiketa += (this.a + 2 * this.b + 3 * this.c + 4 * this.d) / 4;
+            return eragiketa += (a + 2 * b + 3 * c + 4 * .d) / 4;
                 
         }
     }
