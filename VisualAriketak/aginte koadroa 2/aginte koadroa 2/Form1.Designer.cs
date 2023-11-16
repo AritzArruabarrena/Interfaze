@@ -28,11 +28,15 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
             System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
             System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
             this.chart1 = new System.Windows.Forms.DataVisualization.Charting.Chart();
             this.userControl11 = new GrafikoaDll2.UserControl1();
+            this.helpProvider1 = new System.Windows.Forms.HelpProvider();
+            this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
+            this.prueba = new Pruebadll.UserControl1();
             ((System.ComponentModel.ISupportInitialize)(this.chart1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -40,6 +44,7 @@
             // 
             chartArea1.Name = "ChartArea1";
             this.chart1.ChartAreas.Add(chartArea1);
+            this.helpProvider1.SetHelpString(this.chart1, "Saltzaile bakoitzak dituen bezeroak");
             legend1.Name = "Legend1";
             this.chart1.Legends.Add(legend1);
             this.chart1.Location = new System.Drawing.Point(0, 138);
@@ -48,6 +53,7 @@
             series1.Legend = "Legend1";
             series1.Name = "Series1";
             this.chart1.Series.Add(series1);
+            this.helpProvider1.SetShowHelp(this.chart1, true);
             this.chart1.Size = new System.Drawing.Size(344, 372);
             this.chart1.TabIndex = 0;
             this.chart1.Text = "chart1";
@@ -55,19 +61,34 @@
             // 
             // userControl11
             // 
-            this.userControl11.Location = new System.Drawing.Point(386, 101);
+            this.userControl11.Location = new System.Drawing.Point(712, 243);
             this.userControl11.Name = "userControl11";
-            this.userControl11.Size = new System.Drawing.Size(688, 409);
+            this.userControl11.Size = new System.Drawing.Size(362, 267);
             this.userControl11.TabIndex = 1;
-            //this.userControl11.Load += new System.EventHandler(this.userControl11_Load);
+            // 
+            // toolTip1
+            // 
+            this.toolTip1.Tag = "";
+            // 
+            // prueba
+            // 
+            this.prueba.Location = new System.Drawing.Point(231, 50);
+            this.prueba.Name = "prueba";
+            this.prueba.Size = new System.Drawing.Size(800, 450);
+            this.prueba.TabIndex = 2;
+            this.prueba.Load += new System.EventHandler(this.userControl12_Load);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1102, 644);
+            this.Controls.Add(this.prueba);
             this.Controls.Add(this.userControl11);
             this.Controls.Add(this.chart1);
+            this.HelpButton = true;
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
@@ -80,6 +101,9 @@
 
         private System.Windows.Forms.DataVisualization.Charting.Chart chart1;
         private GrafikoaDll2.UserControl1 userControl11;
+        private System.Windows.Forms.HelpProvider helpProvider1;
+        private System.Windows.Forms.ToolTip toolTip1;
+        private Pruebadll.UserControl1 prueba;
     }
 }
 

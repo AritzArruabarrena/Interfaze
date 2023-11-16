@@ -1,0 +1,8 @@
+C:\Users\arruabarrena.aritz\Desktop\Interfaze\VisualAriketak\Pruebadll\Pruebadll\bin\Debug\Pruebadll.dll
+C:\Users\arruabarrena.aritz\Desktop\Interfaze\VisualAriketak\Pruebadll\Pruebadll\bin\Debug\Pruebadll.pdb
+C:\Users\arruabarrena.aritz\Desktop\Interfaze\VisualAriketak\Pruebadll\Pruebadll\obj\Debug\Pruebadll.csproj.AssemblyReference.cache
+C:\Users\arruabarrena.aritz\Desktop\Interfaze\VisualAriketak\Pruebadll\Pruebadll\obj\Debug\Pruebadll.UserControl1.resources
+C:\Users\arruabarrena.aritz\Desktop\Interfaze\VisualAriketak\Pruebadll\Pruebadll\obj\Debug\Pruebadll.csproj.GenerateResource.cache
+C:\Users\arruabarrena.aritz\Desktop\Interfaze\VisualAriketak\Pruebadll\Pruebadll\obj\Debug\Pruebadll.csproj.CoreCompileInputs.cache
+C:\Users\arruabarrena.aritz\Desktop\Interfaze\VisualAriketak\Pruebadll\Pruebadll\obj\Debug\Pruebadll.dll
+C:\Users\arruabarrena.aritz\Desktop\Interfaze\VisualAriketak\Pruebadll\Pruebadll\obj\Debug\Pruebadll.pdb

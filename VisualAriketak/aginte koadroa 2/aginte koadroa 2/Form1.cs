@@ -42,8 +42,9 @@ namespace aginte_koadroa_2
                         chart1.DataBind();
                     }
                 }
+
                 //bigarren grafikoa
-                var salmentaData = db.Salmenta
+              var salmentaData = db.Salmenta
             .Include("Bezeroa")
             .GroupBy(b => b.Bezeroa.Izena)
             .ToDictionary(g => g.Key, g => g.Sum(b => b.Zenbatekoa));
@@ -51,7 +52,7 @@ namespace aginte_koadroa_2
                 {
                     if (salmentaData.Count > 0)
                     {
-                        var kontrolak = userControl11.Controls.OfType<System.Windows.Forms.DataVisualization.Charting.Chart>(); foreach (var kontrola in kontrolak)
+                        var kontrolak = prueba.Controls.OfType<System.Windows.Forms.DataVisualization.Charting.Chart>(); foreach (var kontrola in kontrolak)
                         {
                             kontrola.Titles[0].Text = "SALMENTA GEHIENGO BEZEROAK";
                             kontrola.DataSource = salmentaData;
@@ -63,6 +64,11 @@ namespace aginte_koadroa_2
 
                 }
             }
+        }
+
+        private void userControl12_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
