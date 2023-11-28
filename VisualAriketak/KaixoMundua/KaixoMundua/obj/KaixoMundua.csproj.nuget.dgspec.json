@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arruabarrena.aritz\\Desktop\\interfaze\\VisualAriketak\\KaixoMundua\\KaixoMundua\\KaixoMundua.csproj": {}
+    "C:\\Users\\arruabarrena.aritz\\Desktop\\Interfaze\\VisualAriketak\\KaixoMundua\\KaixoMundua\\KaixoMundua.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arruabarrena.aritz\\Desktop\\interfaze\\VisualAriketak\\KaixoMundua\\KaixoMundua\\KaixoMundua.csproj": {
+    "C:\\Users\\arruabarrena.aritz\\Desktop\\Interfaze\\VisualAriketak\\KaixoMundua\\KaixoMundua\\KaixoMundua.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arruabarrena.aritz\\Desktop\\interfaze\\VisualAriketak\\KaixoMundua\\KaixoMundua\\KaixoMundua.csproj",
+        "projectUniqueName": "C:\\Users\\arruabarrena.aritz\\Desktop\\Interfaze\\VisualAriketak\\KaixoMundua\\KaixoMundua\\KaixoMundua.csproj",
         "projectName": "KaixoMundua",
-        "projectPath": "C:\\Users\\arruabarrena.aritz\\Desktop\\interfaze\\VisualAriketak\\KaixoMundua\\KaixoMundua\\KaixoMundua.csproj",
+        "projectPath": "C:\\Users\\arruabarrena.aritz\\Desktop\\Interfaze\\VisualAriketak\\KaixoMundua\\KaixoMundua\\KaixoMundua.csproj",
         "packagesPath": "C:\\Users\\arruabarrena.aritz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arruabarrena.aritz\\Desktop\\interfaze\\VisualAriketak\\KaixoMundua\\KaixoMundua\\obj\\",
+        "outputPath": "C:\\Users\\arruabarrena.aritz\\Desktop\\Interfaze\\VisualAriketak\\KaixoMundua\\KaixoMundua\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arruabarrena.aritz\\AppData\\Roaming\\NuGet\\NuGet.Config",
